@@ -3,10 +3,10 @@
     "message": "success",
     "data": [
         {
-            "version": "2.7",
+            "version": "3.0",
             "title":"版本更新",
             "message":"修复若干Bug",
-            "apkurl": "http://www.iyuce.com/uploadfiles/app/le.apk"
+            "apkurl": "http://lebang08.github.io/update/le.apk"
         }
     ]
 }
